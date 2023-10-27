@@ -92,3 +92,7 @@
 ## Non-photorealistic Rendering:
 
 - 蒸汽猫Marterio ([知乎](https://www.zhihu.com/people/marterio/posts), [bilibili](https://space.bilibili.com/8395085))
+
+---
+
+👈 [Back to Navigation Page](https://github.com/IQ404/welcome/blob/main/README.md)
