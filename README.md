@@ -1,3 +1,2 @@
-# Welcome to my GitHub
+# Navigation
 
-Please see the repository Wiki pages for more.
