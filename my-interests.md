@@ -49,7 +49,6 @@ I am particularly interested in using Gaussian splatting to render dynamic scene
 
 ### Dynamic Scene
 
-  - :star2: [Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis](https://dynamic3dgaussians.github.io/)
   - [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/)
   - [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/)
 
