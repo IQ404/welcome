@@ -6,7 +6,7 @@
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - Epic Games' [Unreal Engine Tutorials](https://dev.epicgames.com/community/unreal-engine/learning) (the [tutortials on RealityCapture](https://dev.epicgames.com/community/capturing-reality/learning) is also of interest)
 - [GDC Vault](https://www.gdcvault.com/)
-- [NerfStudio](https://docs.nerf.studio/en/latest/)
+- [NerfStudio](https://docs.nerf.studio/)
 - [Shadertoy](https://www.shadertoy.com/)
 
 ## Gaussian Splatting
