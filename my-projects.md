@@ -2,7 +2,7 @@
 
 - My [study notes](https://github.com/IQ404/study-notes).
 
-- //TODO: I'm planning to reimplement [the 2D Gaussian Splatting project](https://github.com/OutofAi/2D-Gaussian-Splatting), just for fun.
+- // TODO: I'm planning to reimplement [the 2D Gaussian Splatting project](https://github.com/OutofAi/2D-Gaussian-Splatting), just for fun.
 
 - // TODO: I'm planning to write a rasterizer.
 
