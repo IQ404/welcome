@@ -78,7 +78,7 @@ I am particularly interested in using Gaussian splatting to render dynamic scene
 
 ## Parallel programming:
 
-- [Taichi Lang]
+- Taichi Lang
 
   - [Docs](https://docs.taichi-lang.org/)
   - [repository](https://github.com/taichi-dev/taichi)
