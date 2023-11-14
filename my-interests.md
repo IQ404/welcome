@@ -83,7 +83,6 @@ I am particularly interested in using Gaussian splatting to render dynamic scene
   - [repository](https://github.com/taichi-dev/taichi)
   - [issue](https://github.com/taichi-dev/taichi/issues)
   - [reddit](https://www.reddit.com/r/taichi_lang/)
-
 - [Mojo](https://www.modular.com/mojo)
 
 ## Animation & Simulation:
