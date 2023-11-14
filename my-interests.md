@@ -6,7 +6,6 @@
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - Epic Games' [Unreal Engine Tutorials](https://dev.epicgames.com/community/unreal-engine/learning)
 - [GDC Vault](https://www.gdcvault.com/)
-  - aaaa
 - [NerfStudio](https://docs.nerf.studio/)
 - [Shadertoy](https://www.shadertoy.com/)
 
@@ -84,7 +83,6 @@ I am particularly interested in using Gaussian splatting to render dynamic scene
   - [repository](https://github.com/taichi-dev/taichi)
   - [issue](https://github.com/taichi-dev/taichi/issues)
   - [reddit](https://www.reddit.com/r/taichi_lang/)
-
 - [Mojo](https://www.modular.com/mojo)
 
 ## Animation & Simulation:
