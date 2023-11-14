@@ -78,9 +78,12 @@ I am particularly interested in using Gaussian splatting to render dynamic scene
 
 ## Parallel programming:
 
-- [Run Taichi programs in C++ applications](https://docs.taichi-lang.org/docs/tutorial)
+- [Taichi Lang]
 
-  Read more about Taichi here: [Docs](https://docs.taichi-lang.org/), [repository](https://github.com/taichi-dev/taichi), [reddit](https://www.reddit.com/r/taichi_lang/)
+  - [Docs](https://docs.taichi-lang.org/)
+  - [repository](https://github.com/taichi-dev/taichi)
+  - [issue](https://github.com/taichi-dev/taichi/issues)
+  - [reddit](https://www.reddit.com/r/taichi_lang/)
 
 - [Mojo](https://www.modular.com/mojo)
 
