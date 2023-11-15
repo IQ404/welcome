@@ -6,6 +6,8 @@
 
 - // TODO: I'm planning to write a rasterizer.
 
+- // TODO: I'm planning to write a volume renderer.
+
 - // TODO: I'm planning to use Taichi Lang to implement some demo for soft-body/fluid simulation.
 
 - I wrote a series of [CPU-based ray tracers with a denoiser](https://github.com/IQ404/cpu-based-ray-tracer).
