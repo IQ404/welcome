@@ -18,9 +18,9 @@
 
 - Some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501) written by me.
   
-- An unfinished rasterized scene of [a wavy sea on a rainy day](https://github.com/IQ404/FinalProject-CSC8502) (//TODO: this project is aimed to be seriously polished).
+- An unfinished rasterized scene of [a wavy sea on a rainy day](https://github.com/IQ404/FinalProject-CSC8502) ( //TODO: this project is aimed to be seriously polished ).
   
-- An unfinished [football game](https://github.com/IQ404/FinalProject-CSC8503) (//TODO: this project is aimed to be seriously polished).
+- An unfinished [football game](https://github.com/IQ404/FinalProject-CSC8503) ( //TODO: this project is aimed to be seriously polished ).
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
