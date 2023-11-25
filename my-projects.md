@@ -16,8 +16,6 @@
 
 - // TODO: I'm planning to write a rasterizer.
 
-- // TODO: I'm planning to use Taichi Lang to implement some demo for soft-body/fluid simulation.
-
 - An unfinished rasterized scene of [a wavy sea on a rainy day](https://github.com/IQ404/FinalProject-CSC8502) ( //TODO: this project is aimed to be seriously polished ).
 
 ### C++
@@ -29,6 +27,10 @@
 - I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501).
 
 - Some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501) written by me.
+
+### Simulation
+
+- // TODO: I'm planning to use Taichi Lang to implement some demo for soft-body/fluid simulation.
 
 ### Game AI
 
