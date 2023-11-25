@@ -22,7 +22,7 @@
 
 ### C++
 
-- An purpose-specific [polynomial solver](https://github.com/IQ404/Coursework-CSC8501) written by me.
+- A purpose-specific [polynomial solver](https://github.com/IQ404/Coursework-CSC8501) written by me.
 
 ### Algorithms
 
