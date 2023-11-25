@@ -2,7 +2,7 @@
 
 - My [study notes](https://github.com/IQ404/study-notes/blob/main/README.md).
 
-### Ray tracing
+### Ray Tracing
 
 - I wrote a series of [CPU-based ray tracers with a denoiser](https://github.com/IQ404/cpu-based-ray-tracer).
 
