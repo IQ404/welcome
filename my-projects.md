@@ -22,6 +22,8 @@
 
 - A purpose-specific [polynomial solver](https://github.com/IQ404/Coursework-CSC8501) written by me.
 
+- // TODO: I'm planning to write (just a very simple one) a C++ program for Menu auto-generation for my study notes.
+
 ### Algorithms
 
 - I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501).
