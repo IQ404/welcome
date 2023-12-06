@@ -1,6 +1,7 @@
 # What you might find on my GitHub
 
 - My [study notes](https://github.com/IQ404/study-notes/blob/main/README.md).
+- My [PhD stuffs](https://github.com/IQ404/phd-base) (currently private).
 
 ### Ray Tracing
 
