@@ -17,13 +17,17 @@ The original paper:
 
   [Cited by ...](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12323590702419478298&as_sdt=5)
 
-I am particularly interested in using Gaussian splatting to render dynamic scenes:
+Using Gaussian splatting for dynamic scenes:
 
 - :star2: [Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis](https://dynamic3dgaussians.github.io/)
 
   [Cited by ...](https://scholar.google.co.uk/scholar?cites=1886540393243738542&as_sdt=2005&sciodt=0,5&hl=en)
 
 - :star2: [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
+
+For reducing memory footprint:
+
+- :star2: [LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS](https://lightgaussian.github.io/)
 
 ## (Neural) Radiance Fields:
 
