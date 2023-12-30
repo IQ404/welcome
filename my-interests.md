@@ -11,13 +11,13 @@
 
 ## Gaussian Splatting
 
-The original paper:
+### The original paper
 
 - :star2: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 
   [Cited by ...](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12323590702419478298&as_sdt=5)
 
-Using Gaussian splatting for dynamic scenes:
+### Using Gaussian splatting for dynamic scenes
 
 - :star2: [Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis](https://dynamic3dgaussians.github.io/)
 
@@ -25,7 +25,7 @@ Using Gaussian splatting for dynamic scenes:
 
 - :star2: [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
 
-For reducing memory footprint:
+### For reducing memory footprint
 
 - :star2: [LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS](https://lightgaussian.github.io/)
 
@@ -110,7 +110,7 @@ For reducing memory footprint:
 
 ## Non-photorealistic Rendering:
 
-- 蒸汽猫Marterio ([知乎](https://www.zhihu.com/people/marterio/posts), [bilibili](https://space.bilibili.com/8395085))
+- 蒸汽猫Marterio (in Chinese: [知乎](https://www.zhihu.com/people/marterio/posts), [bilibili](https://space.bilibili.com/8395085))
 
 ---
 
