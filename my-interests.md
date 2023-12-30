@@ -11,6 +11,10 @@
 
 ## Gaussian Splatting
 
+### Resources
+
+- [Awesome 3D Gaussian Splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
+
 ### The original paper
 
 - :star2: [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
