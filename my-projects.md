@@ -43,6 +43,10 @@
 
 - [Here](https://github.com/IQ404/MyFirstGame) is the first game I ever made.
 
+### Programming Language
+
+- I'm planning to write a programming language, using C, base on Ludwig Wittgenstein's *Philosophical Investigations*. I really do! It will probably only be a toy, but a fun toy. Though I'm not sure when would I have time to finish a project on such a scale... 
+
 ---
 
 👈 [Back to Navigation Page](https://github.com/IQ404/welcome/blob/main/README.md)
