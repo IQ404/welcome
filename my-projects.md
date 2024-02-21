@@ -15,7 +15,9 @@
 
 ### Rasterization
 
-- // TODO: I'm planning to write a rasterizer.
+- A bunch of [shaders](https://github.com/IQ404/learning-opengl) I wrote using an OpenGL application created by myself.
+
+- // TODO: I'm planning to write a CPU-based rasterizer.
 
 - An unfinished rasterized scene of [a wavy sea on a rainy day](https://github.com/IQ404/FinalProject-CSC8502) ( //TODO: this project is aimed to be seriously polished ).
 
