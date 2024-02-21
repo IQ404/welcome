@@ -23,13 +23,13 @@
 
 ### C++
 
-- A purpose-specific [polynomial solver](https://github.com/IQ404/Coursework-CSC8501) written by me.
+- A purpose-specific [polynomial solver](https://github.com/IQ404/Coursework-CSC8501) written by myself.
 
 ### Algorithms
 
 - I wrote a [binary search tree](https://github.com/IQ404/BinarySearchTree-CSC8501).
 
-- Some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501) written by me.
+- Some [sorting algorithms](https://github.com/IQ404/TheFastestSorter-CSC8501) written by myself.
 
 ### Simulation
 
