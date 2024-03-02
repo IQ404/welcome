@@ -93,7 +93,7 @@
 
   - [Temporally Stable Real-Time Joint Neural Denoising and Supersampling](https://www.intel.com/content/www/us/en/developer/articles/technical/temporally-stable-denoising-and-supersampling.html)
 
-## Parallel programming:
+## Parallel Programming:
 
 - Taichi Lang
   - [Docs](https://docs.taichi-lang.org/)
@@ -111,7 +111,7 @@
 
 - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
 
-## Digital arts:
+## Digital Arts:
 
 - [Capturing Lofoten in Unreal Engine 5](https://www.youtube.com/watch?v=ifryjffUJT8&t=683s)
 - [Capturing the World’s OLDEST Stave Church in Unreal Engine 5](https://www.youtube.com/watch?v=B5hBBFM2I_w)
@@ -121,7 +121,7 @@
 - [Nubis3: Methods (and madness) to model and render immersive real-time voxel-based clouds](https://advances.realtimerendering.com/s2023/index.html#Nubis3)
 - [itch](https://itch.io/), a website about indie games
 
-## Non-photorealistic Rendering:
+## Non-Photorealistic Rendering:
 
 - 蒸汽猫Marterio (in Chinese: [知乎](https://www.zhihu.com/people/marterio/posts), [bilibili](https://space.bilibili.com/8395085))
 
