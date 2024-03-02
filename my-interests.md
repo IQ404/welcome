@@ -16,13 +16,13 @@
 
 - [Awesome 3D Gaussian Splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
 
-### The original paper
+### The Original Paper
 
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 
   [Cited by ...](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12323590702419478298&as_sdt=5)
 
-### Using Gaussian splatting for dynamic scenes
+### Dynamic Scenes
 
 - [Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis](https://dynamic3dgaussians.github.io/)
 
@@ -30,11 +30,17 @@
 
 - [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
 
-### For reducing memory footprint
+### Reducing Memory Footprint
 
 - [LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS](https://lightgaussian.github.io/)
 
-### 
+### Physics
+
+- [PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics](https://xpandora.github.io/PhysGaussian/)
+
+### Mesh Extraction
+
+// To be listed...
 
 ## (Neural) Radiance Fields:
 
