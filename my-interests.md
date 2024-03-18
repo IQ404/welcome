@@ -28,6 +28,8 @@
 
   [Cited by ...](https://scholar.google.co.uk/scholar?cites=1886540393243738542&as_sdt=2005&sciodt=0,5&hl=en)
 
+- [Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting](https://fudan-zvg.github.io/4d-gaussian-splatting/)
+
 - [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://guanjunwu.github.io/4dgs/)
 
 ### Reducing Memory Footprint
